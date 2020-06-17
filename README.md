@@ -12,9 +12,9 @@ What is the best and worst rate of import and export (that is, ratio of imported
 Here try to answer some of these questions, analysing the fertilizers in Brazil.
 
 #### Tools
-[Python3](https://www.python.org/)
-[Colaboratory](https://colab.research.google.com/)
-[Dataset](https://www.kaggle.com/josehenriqueroveda/fertilizers-by-product-fao)
+- [Python3](https://www.python.org/)
+- [Colaboratory](https://colab.research.google.com/)
+- [Dataset](https://www.kaggle.com/josehenriqueroveda/fertilizers-by-product-fao)
 
 **Liked it?**
 Find me on [LinkedIn](https://www.linkedin.com/in/jhroveda/)
